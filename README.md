@@ -1,6 +1,6 @@
-# Foobar
+# READ RED DOT
 
-read red dot is a book journal
+read red dot is a book journal built on the MERN stack
 
 ## Installation
 
