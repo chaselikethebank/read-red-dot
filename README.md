@@ -1,6 +1,6 @@
 # READ RED DOT
 
-read red dot is a book journal built on the MERN stack
+read red dot is a book personal archive/journal built on the MERN stack
 
 ## Installation
 
